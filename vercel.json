@@ -1,9 +1,9 @@
 {
   "functions": {
-    "pages/api/**/*": {
+    "pages/api/**/*.ts": {
       "maxDuration": 47
     },
-    "src/app/api/**/*.ts": {
+    "src/app/api1/**/*.ts": {
       "maxDuration": 300
     }
   }
